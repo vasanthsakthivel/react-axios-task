@@ -1,8 +1,8 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mock API URL : https://jsonplaceholder.typicode.com/users
 
-Currently, two official plugins are available:
+this mock api url is not displayed in ui, so i use mockapi 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://66f67d4a436827ced97757d7.mockapi.io/users
+
+deployment link https://react-axios-tas.netlify.app/
